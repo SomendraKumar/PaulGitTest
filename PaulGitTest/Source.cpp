@@ -6,4 +6,5 @@ void main()
 	SomTest s;
 	s.play();
 	cout << "hello game git hub\n";
+	//jjjjjjjjjjjjjj
 }
